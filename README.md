@@ -2,7 +2,7 @@
 
 Aplikasi Ramal Zodiak
 Nama : Muhammad Rifqi Praditya
-NIM : 2310501
+NIM : 2310501114
 UTS Mobile Programming Lanjut
 ## Getting Started
 
