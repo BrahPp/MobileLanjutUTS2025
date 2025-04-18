@@ -1,7 +1,9 @@
 # mobilelanjututs
 
 Aplikasi Ramal Zodiak
-
+Nama : Muhammad Rifqi Praditya
+NIM : 2310501
+UTS Mobile Programming Lanjut
 ## Getting Started
 
 This project is a starting point for a Flutter application.
